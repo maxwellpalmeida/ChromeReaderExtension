@@ -2,14 +2,12 @@
   "name": "Keep reading",
   "version": "1.0",
   "description": "Keep your pace reading pages!",
-  "permissions": [ "activeTab", "tabs", "declarativeContent", "storage" ],
-  //"options_page": "options.html",
+  "permissions": [ "activeTab", "declarativeContent", "storage" ],
   "background": {
     "scripts": [ "background.js" ],
     "persistent": false
   },
   "page_action": {
-    //"default_popup": "popup.html",
     "default_icon": {
       "16": "images/open-book-top-view16.png",
       "32": "images/open-book-top-view32.png",
