@@ -11,5 +11,9 @@ Ever wished to know where you halted your reading on a webpage and had to search
     * Everytime you scroll the page, the vertical position you are at is stored at localStorage of your browser.
     * Whenever you open a page you have visited before, the extension will search on localStorage to collected where you were last at, and resumes vertical scroll position accordingly.
     
+## Built with
+  * Javascript;
+  * HTML 5.
+    
 ## License
   This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
